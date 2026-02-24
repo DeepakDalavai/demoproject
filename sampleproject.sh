@@ -1,2 +1,2 @@
 I am Deepak
-this is a sampleproject
+this is a sample project
